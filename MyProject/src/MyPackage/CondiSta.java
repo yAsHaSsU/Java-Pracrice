@@ -1,4 +1,4 @@
-package MyPackage;
+	package MyPackage;
 import java.util.Scanner;
 
 public class CondiSta {
