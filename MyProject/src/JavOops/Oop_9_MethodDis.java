@@ -30,6 +30,7 @@ public class Oop_9_MethodDis {
 	
       //In this obj are formed during run time. Super class reference and sub class object.
       //obj is created from sub class , so call() method of smartphone is implemented.
+      
       obj.call();         
       
       
